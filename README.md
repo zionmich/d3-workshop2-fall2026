@@ -70,7 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
-For Japan, Hamilton differed the most by starting on hards and switching to mediums. For Britain, Russell differed the most by using hards, intermediates, then hards again, but Norris used intermediates and mediums. For the Netherlands, Hamilton started on softs and ended on mediums, but Piastri used mediums and hards.
+For Japan, Stroll differed the most by using softs, hards, and mediums, while winner Verstappen used mediums and hards. For Britain, Stroll differed the most with four stints, switching between intermediates and softs, while winner Norris used intermediates and mediums. For the Netherlands, Sainz differed the most with five stints, while winner Piastri used three.
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?

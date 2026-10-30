@@ -118,7 +118,7 @@ onRaceChange(race => {
     // TODO STEP 3: Join the stints to <g class="stint"> groups, with a KEY so D3 knows which bar is which
     // On enter, each group gets a rect (the bar) and a text (the compound letter)
     const groups = barsGroup.selectAll('g.stint')
-        .data(stints, d => `d.drivernumber-{d.stint_number}`)
+        .data(stints, d => `${d.driver_number}-${d.stint_number}`)
         .join(
             enter => {
                 const g = enter.append('g').attr('class', 'stint').attr('opacity', 0);

@@ -75,9 +75,13 @@ For Japan, Stroll differed the most by using softs, hards, and mediums, while wi
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
+For the 2025 Japanese Grand Prix, the race trace shows how the gaps between drivers changed throughout the race. For instance, Verstappen's lead over Hadjar gradually rose from around 5 seconds to nearly 40 seconds by the end. A regular lap time chart would show how fast each driver completed a lap, but wouldn't make it as easy to see how those differences added up over the race.
+
 >
 
 **Bonus** (optional): which race did you add, and why?
+
+I added the Saudi Arabian Grand Prix 2024 because it was on the Jeddah Corniche Circuit, which is the fastest street circuit in F1, meaning cars maintain a higher average speed on this track than on any other city-street track. 
 
 >
 

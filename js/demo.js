@@ -111,6 +111,8 @@ onRaceChange(race => {
     // Update the aria-label of the svg with the race name
     svg.attr('aria-label', `Track outline of the ${race.label}`);
     replayDot.interrupt().attr('opacity', 0);
+
+    duration = 750;
 });
 
 

@@ -19,5 +19,12 @@
     "year": 2025,
     "meeting_key": 1267,
     "file": "races/2025-dutch.json"
+  },
+  {
+    "id": "2024-saudi-arabian",
+    "label": "Saudi Arabian Grand Prix 2024",
+    "year": 2024,
+    "meeting_key": 1230,
+    "file": "races/2024-saudi-arabian.json"
   }
 ]
